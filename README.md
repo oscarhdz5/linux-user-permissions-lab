@@ -3,8 +3,8 @@
 ## Overview
 This lab demonstrates Linux system administration skills:
 - Creating and managing users and groups
-- Configuring and managing users and groups 
-- Enforcing lease-privilege access
+- Configuring shared directories with group permissions 
+- Enforcing least-privilege access
 
 
 ## key Commands used
