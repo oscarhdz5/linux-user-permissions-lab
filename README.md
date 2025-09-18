@@ -16,6 +16,6 @@ This lab demonstrates Linux system administration skills:
 
 ## Screenshots
 
-![Creating John and verifying group membership](john-permissions.png)
-![File creation and permissions as John](john-user-creation.png)
+![Creating John and verifying group membership](john-user-creation.png)
+![File creation and permissions as John](john-permissions.png)
 ![Creating Mary and verifying collaboration](adding-mary-user-and-creating-file.png)
